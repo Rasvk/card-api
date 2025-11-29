@@ -7,7 +7,7 @@ plugins {
 
 group = 'no.rvk'
 version = '0.0.1-SNAPSHOT'
-description = 'funk-api'
+description = 'card-api'
 
 java {
     toolchain {
