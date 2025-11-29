@@ -1,10 +1,10 @@
-package no.rvk.funkapi;
+package no.rvk.cardapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FunkApiApplicationTests {
+class CardApiApplicationTests {
 
 	@Test
 	void contextLoads() {

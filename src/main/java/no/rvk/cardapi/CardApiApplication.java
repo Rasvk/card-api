@@ -1,13 +1,13 @@
-package no.rvk.funkapi;
+package no.rvk.cardapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FunkApiApplication {
+public class CardApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FunkApiApplication.class, args);
+		SpringApplication.run(CardApiApplication.class, args);
 	}
 
 }
