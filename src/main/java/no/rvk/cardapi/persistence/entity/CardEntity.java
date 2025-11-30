@@ -1,4 +1,4 @@
 package no.rvk.cardapi.persistence.entity;
 
-public class ShoeCardEntity {
+public class CardEntity {
 }
