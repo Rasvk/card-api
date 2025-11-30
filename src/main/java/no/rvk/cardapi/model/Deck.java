@@ -1,6 +1,4 @@
-import no.rvk.cardapi.model.Card;
-import no.rvk.cardapi.model.Rank;
-import no.rvk.cardapi.model.Suit;
+package no.rvk.cardapi.model;
 
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
